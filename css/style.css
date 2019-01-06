@@ -1,0 +1,65 @@
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		#caidan{
+			padding-left:445px;
+			padding-bottom:115px;
+		}
+		#daohang{
+			list-style:none;
+		}
+		#daohang li{
+			float:left;
+		}
+		#daohang li a{
+			text-decoration:none;
+			font-weight:bolder;
+			color:#880000;
+			height:22px;
+			display:block;											<!--锁定，使其具有块标签属性，对其设置行高边框属性等-->
+			line-height:22px;
+			padding: 0 10px;
+			border:1px solid white;
+			border-radius:5px;
+		}
+	
+	
+	
+		#caidan1{
+			padding-left:342px;
+			padding-bottom:0px;
+		}
+		#daohang1{
+			list-style:none;
+		}
+		#daohang1 li{
+			float:left;
+		}
+		#daohang1 li a{
+			text-decoration:none;
+			font-weight:bolder;
+			color:#880000;
+			height:20px;
+			display:block;											<!--锁定，使其具有块标签属性，对其设置行高边框属性等-->
+			line-height:20px;
+			padding: 0 10px;
+			border-right:1px solid white;
+		}
+		
+		
+		#fuji{
+			padding-right:10px;
+			padding-bottom:2px;
+			}
+		.fanye {list-style:none;
+				}
+		.fanye li{float:left;}
+		.fanye li a{
+			text-decoration:none;
+			background:#0044BB;
+			color:#fff;
+			font-weight:bolder;
+			height:20px;
+			display:block;											<!--锁定，使其具有块标签属性，对其设置行高边框属性等-->
+			line-height:20px;
+			padding:0 10px;
+			border:1px solid white;
+		}
